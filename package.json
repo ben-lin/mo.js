@@ -1,0 +1,40 @@
+{
+  "name": "mo.js",
+  "version": "0.0.1",
+  "description": "A modularized MVC web framework based on Koa.",
+  "author": {
+    "name": "dreamerslab",
+    "email": "ben@dreamerslab.com"
+  },
+  "bin": {
+    "mo": "./bin/mo"
+  },
+  "keywords": [
+    "mvc",
+    "koa",
+    "koa mvc",
+    "mo",
+    "framework"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamerslab/mo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dreamerslab/mo/issues"
+  },
+  "main": "index",
+  "engines": [
+    "node >= 0.11.0"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ]
+}
