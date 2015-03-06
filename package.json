@@ -1,6 +1,6 @@
 {
   "name": "mo.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modularized MVC web framework based on Koa.",
   "author": {
     "name": "dreamerslab",
